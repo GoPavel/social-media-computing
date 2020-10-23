@@ -1,0 +1,9 @@
+* Social media computing course
+
+** Basic setup environment
+   #+BEGIN_SRC
+   $ poetry install
+   $ poetry shell
+   $ jupyter notebook .
+   #+END_SRC
+
